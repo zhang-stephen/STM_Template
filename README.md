@@ -1,5 +1,6 @@
 # STM_Template 
 This is a Template for developers of STM32F407ZGTx and it surpports to DSP &amp; RTOS developing.
+<<<<<<< HEAD
 ## These are the note of this Template
 
 But my English is so poor, so this note is in Chinese(simplified). 
@@ -28,3 +29,6 @@ But my English is so poor, so this note is in Chinese(simplified).
 ---
 #### yicheng2623825899@gmail.com
 ---
+=======
+#### Please view readme.txt in every directory(if it exists)
+>>>>>>> c73fcc93c5f6af872e84087f34caf91cd1b1930d
