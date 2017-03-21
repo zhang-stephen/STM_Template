@@ -1,0 +1,12 @@
+#OBJ dir
+*/OBJ/
+#lib文件
+*.lib
+#ARM MDK的配置文件
+*.uv*
+#Widows 批处理文件
+*.bat
+!./Lib_Create/mdk_del.bat
+#Debug config
+DebugConfig/
+Listings/
