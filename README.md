@@ -19,14 +19,17 @@ But my English is so poor, so this note is in Chinese(simplified).
 >> + .gitignore -> 不会被上传的文件类型，主要是已生成的lib文件和Keil MDK配置文件
 >> + LICENSE -> 开源许可证，本模板采用GPLv2.1许可证开源
 >> + mdk_del.bat -> Windows批处理文件，用于删除Keil MDK编译链接后生成的不必要的文件
->> + README.md -> 不解释
-3. 相关教程URL
+>> + README.md -> 不解释  
+3. lib文件的位置  
+- Template_*_LIB\STDPERIPH\lib\STM32F4xx_StdPeriph.lib  
+- Template_DSP_LIB\MATH\lib\arm_cortexM4lf_math.lib  
+4. 相关教程URL
 + 我的博客地址    <http://www.cnblogs.com/program-tech/>
 + 开源电子网      <http://www.openedv.com/>
 + 意法半导体官网 <http://www.openedv.com/>
 + etc.
 ---
-#### Copyright &copy; 2017 Yangtze University 
+#### Copyright &copy; 2017 Yangtze University Stark Zhang
 ---
-#### yicheng2623825899@gmail.com
+#### Contact: yicheng2623825899@gmail.com
 ---
